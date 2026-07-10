@@ -1,0 +1,4 @@
+-used combined channel encodder mode for DT and CLK pin
+-rename then ENC_DT and ENC_CLK  respectively in cubeMX
+-change deboumce delay according to your encoder switch
+-rename sw pin to ENCODER_SW in cube mx 
